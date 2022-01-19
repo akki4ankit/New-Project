@@ -3,8 +3,8 @@
     <!--  <h1>{{ msg }}</h1> -->
 
      <div id ="center">
-        <!-- <img src="./assets/userimage.png" > -->
-        <EmployeeList />
+         <img src="./assets/userimage.png" >
+        <!-- <EmployeeList /> -->
      </div>
      <div class="container">
           <MicroPhoneOffIcon :size="40" style="color:#fff; "/>
